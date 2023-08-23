@@ -1,0 +1,15 @@
+Complete **RESULT 1**. Input Token: 2734.666666666667 tokens, Output token: 7265.333333333334 tokens, Fee = $0.03726533333333334, Time Execution: 29.554785013198853s
+
+Complete **RESULT 2**. Input Token: 17462.666666666668 tokens, Output token: 3415.9999999999995 tokens, Fee = $0.066052, Time Execution: 14.0552818775177s
+
+Complete **RESULT 3**. Input Token: 22862.666666666668 tokens, Output token: 3340.0 tokens, Fee = $0.08194800000000001, Time Execution: 12.841946125030518s
+
+Complete **RESULT 4**. Input Token: 17054.666666666664 tokens, Output token: 5482.666666666667 tokens, Fee = $0.07309466666666667, Time Execution: 23.463979244232178s
+
+Complete **RESULT 5**. Input Token: 2752.0 tokens, Output token: 4609.333333333333 tokens, Fee = $0.026693333333333333, Time Execution: 21.140141010284424s
+
+Complete **RESULT 6**. Input Token: 2533.333333333333 tokens, Output token: 4382.666666666667 tokens, Fee = $0.02513066666666667, Time Execution: 19.59693455696106s
+
+Complete **RESULT 7**. Input Token: 2813.3333333333335 tokens, Output token: 4234.666666666666 tokens, Fee = $0.025378666666666667, Time Execution: 18.320045709609985s
+
+Finished with Total Fee: 0.33556266666666673 and Total Execution Time: 138.97311353683472
